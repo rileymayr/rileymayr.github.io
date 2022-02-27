@@ -1,31 +1,36 @@
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+Hello! I’m @rileymayr
+- I am currently a 6th year Graduate Research Assistant and PhD Candidate in the Psychology Department at the University of Cincinnati
+- I started my post-secondary school education at the [University of Evansville](evansville.edu) in Evansville, IN receiving a B.S. in Cognitive Science (Computer Science Focus) and Philosophy with minors in Psychology and Neuroscience
+- After Evansville, [Dr. Tamara Lorenz](https://researchdirectory.uc.edu/p/lorenztr) accepted me to be her first graduate student at the University of Cincinnati
+- Together, our wide array of interests have led to work exploring many different topics all having something to do with how people act and navigate in their environment
+- My research interests dabble into a little bit of everything, but the bulk of it investigates human movement through a Human Factors focus
+  - I've conducted research in the past looking into...
+    - Human Robot Interaction in both reality and virtual reality using a digital twin
+    - [Human Ropot Interaction utilizing behavioral dynamics models to control robot behavior](https://doi.org/10.1145/3173386.3177022)
+    - Creating an easier environment for novices with no programming experience to build Unity projects for research purposes
+    - [Alternative feedback methods to improve prostheses](https://www.frontiersin.org/articles/10.3389/fnbot.2021.662397/full)
+    - Coordinated dyadic movement
+    - [Dyadic Energy Expenditure in coupled action](https://etd.ohiolink.edu/apexprod/rws_olink/r/1501/10?clear=10&p10_accession_num=ucin157106195472375)
+  - My Dissertation is currently investigating...
+    - How modulating information presentation in a virtual environment can lead to faster and better skilled movement acquisition
+- Through these projects (and helping many others in my reserach lab), I have come to learn many different equipment systems, softwares, and skills
+  - Lots of Virtual Reality work, mainly with the wireless HTC Vive Pro
+  - Robotics programming and control via ROS (KUKA iiwa, Kinova Mico)
+  - Motion Capture with Cortex from MotionAnalysis
+  - Integrating our wireless VR systems with Motion Capture to embody and track research participants
+  - Building and programming sensing apparatuses with microcontrollers 
+  - Setting up and collecting physiological data using the BIOPAC system
+  - Fusion360 to build and 3D print prototypes for my projects and others in my lab
+- Outside of school, I have a few too many hobbies...
+  - Turning wrenches in the garage on whatever is in front of me
+  - Building furniture and shop equipment
+  - Repairing and reselling previously broken tools and equipment on Craigslist
+  - Helping my friends at Keystone Contracting and Remodelling if they have any big projects on the weekends
+  - Dabbling in game development in Unity using the skills I've picked up from my research projects
+  - Managing my home server
+  - Designing and rapid prototyping tool and product ideas using Fusion360 and my 3D printer
+  - Hiking East Fork State Park
 
-I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
-
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
-
-# Instructions
-
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
-
-See more info at https://academicpages.github.io/
-
-## To run locally (not on GitHub Pages, to serve on your own computer)
-
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
-
-# Changelog -- bugfixes and enhancements
-
-There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
-
-To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+- I will be graduating with my PhD in Experimental Psychology with a focus in Human Factors by the end of Summer 2022 and am definitely looking for a job!
+    
+- Please feel free to reach me via my [UC email address](mayrry@mail.uc.edu)
