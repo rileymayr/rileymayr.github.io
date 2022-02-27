@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "about me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 Hello! I’m @rileymayr
 - I am currently a 6th year Graduate Research Assistant and PhD Candidate in the Psychology Department at the University of Cincinnati
 - I started my post-secondary school education at the [University of Evansville](evansville.edu) in Evansville, IN receiving a B.S. in Cognitive Science (Computer Science Focus) and Philosophy with minors in Psychology and Neuroscience
