@@ -4,7 +4,7 @@ collection: teaching
 type: "Research Methods in Human Factors"
 permalink: /teaching/PSYC5060
 venue: "University of Cincinnati, Psychology"
-date: 2019
+date: 2019-08
 location: "Cincinnati, OH"
 ---
 
