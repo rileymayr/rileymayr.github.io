@@ -44,7 +44,7 @@ Work experience
   
 Skills
 ======
-* Computer Skills
+* Computer Software Skills
   * Unity (VR) and C#
   * Arduino
   * R
@@ -64,7 +64,7 @@ Skills
   * Rapid prototyping with 3D Printing and CNC routing
 * Practical Skills
   * Great communication skills with both all groups (marketing, engineering, designers, maintenance, customer)
-  * General construction and mechanical work
+  * General construction, welding and machining, CAD/CAM, and mechanical work
   * Running manufacturing tools like CNCs mills and routers, lathes, table saws, hand mills
   * Outside of the box thinking
 
@@ -73,19 +73,29 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Honors
 ======
-* Currently signed in to 43 different slack teams
+* 2021-2022 Digital Futures Graduate Research Fellow 
+  
+Funding Received
+======
+* University Research Council Graduate Student Research Grant
+  * Amount $6,000
+  * Investigated reduction of human energy expenditure when working with a robot in a physical task
+
+<!-- Service and leadership
+======
+*  -->

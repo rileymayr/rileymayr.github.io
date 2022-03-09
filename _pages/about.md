@@ -1,7 +1,7 @@
 ---
-permalink: /
-title: "Overview"
-excerpt: "About me"
+permalink: /about
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -41,7 +41,7 @@ Hello! I’m Riley
     - Fusion360 (Parametric Modelling)
     - Arduino Uno
     - ROS (Python and C++)
-- Outside of school, I have a few too many hobbies...
+- Outside of school, I have a few too many hobbies. Some notable ones are...
   - Turning wrenches in the garage on whatever is on jacks or on my workbench
   - Building furniture and shop equipment
   - Repairing and reselling previously broken tools and equipment on Craigslist
