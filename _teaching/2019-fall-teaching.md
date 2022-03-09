@@ -4,11 +4,17 @@ collection: teaching
 type: "Research Methods in Human Factors"
 permalink: /teaching/PSYC5060
 venue: "University of Cincinnati, Psychology"
-date: "Fall 2019 - Summer 2021"
+date: ""
 location: "Cincinnati, OH"
 ---
 
-Instructor of Record for the senior level capstone course "Research Methods in Human Factors".
+Instructor of Record for the senior level capstone course "Research Methods in Human Factors"
+Fall 2019
+Spring 2020
+Summer 2020
+Fall 2020
+Spring 2021
+Summer 2021
 
 Responsibilities
 ======
