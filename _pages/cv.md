@@ -50,9 +50,10 @@ Skills
   * R
   * MATLAB
   * Fusion360
+  * MotionAnalysis Cortex
   * ROS (Python and C++)
   * Microsoft Office
-  * Telecommunication and Group Organization Software (Zoom, Microsoft Teams, Slack)
+  * Telecommuting and Group Organization Software (Zoom, Microsoft Teams, Slack)
   * Adobe Illustrator and Photoshop
 * Technological Skills
   * Circuit design
@@ -88,13 +89,54 @@ Teaching
 
 Honors
 ======
-* 2021-2022 Digital Futures Graduate Research Fellow 
+* 2021-2022 Digital Futures Graduate Research Fellow
   
+Professional Trainings
+======
+* 2017 - American Psychological Association: Advanced Training Institute on Nonlinear Methods
+* 2016 - OSHA Safety Certification
+
+Conferences Attended
+======
+* Joint Action Meeting - July 2019
+* International Conference on Perception and Action - July 2019
+* Guy Van Orden Student Research Conference - April 2019
+* International Society for Ecological Psychology - June 2018
+* Guy Van Orden Student Research Conference - April 2018
+* Human Robot Interaction - March 2018
+* Guy Van Orden Student Research Conference - April 2017
+
+Posters Presented
+======
+* **Mayr, R.**, Davis, T., Riley, M.A., Lorenz, T. (2019, July). How Much for Joint Action? Assessing the Cost of Working Together. Poster presented at the biennial Joint Action Meeting, Genoa, Italy
+
+* **Mayr, R.**, Davis, T., Riley, M.A., Lorenz, T. (2019, July). How Much for Joint Action? Assessing the Cost of Working Together. Poster presented at the International Conference on Perception and Action, Groningen, the Netherlands
+
+* **Mayr, R.**, Davis, T., Riley, M.A., Lorenz, T. (2019, April). How much for joint action? Assessing the cost of moving together. Talk presented at the annual Guy Van Orden Student Research Conference, Cincinnati, OH.
+
+* **Mayr, R.**, Lamb, M., Lorenz, T. (2018, June). Interaction Dynamics, Friend or Foe. Poster presented at the biannual North American Meeting of the International Society for Ecological Psychology, Normal, IL.
+
+* **Mayr, R.**, Lamb, M., Lorenz, T. (2018, April). Dynamics of Cooperation and Competition. Talk presented at the annual Guy Van Orden Student Research Conference, Cincinnati, OH.
+
+* Lamb, M., **Mayr, R.**, Lorenz, T., Minai, A., Richardson, M. (2018, March). The Paths We Pick Together: A Behavioral Dynamics Algorithm for an HRI Pick-and-Place Task. Poster session presented at the annual conference on Human Robot Interaction, Chicago, IL.
+
 Funding Received
 ======
 * University Research Council Graduate Student Research Grant
   * Amount $6,000
   * Investigated reduction of human energy expenditure when working with a robot in a physical task
+
+Work Experience
+======
+* 2015-2016 Mechanical, Electrical, and Network Engineering Project Consultant
+  * Current Engineering - Newburgh, Indiana
+
+Professional Affiliations
+======
+* Society of Automotive Engineers (SAE)
+* American Psychological Association (APA)
+* Instutue of Electrical and Electronics Engineers (IEEE)
+* International Society of Ecological Psychologists (ISEP)
 
 <!-- Service and leadership
 ======
