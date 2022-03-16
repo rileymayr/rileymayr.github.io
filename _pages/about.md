@@ -46,7 +46,7 @@ Hello! I’m Riley
   - Dabbling in game development in Unity using the skills I've picked up from my research projects
   - Managing my home server and figuring out what else I can use it for
   - Designing and rapid prototyping tool and product ideas using Fusion360 and my 3D printer
-  - Hiking East Fork State Park
+  - Hiking, Backpacking, and Mountain Biking
 
 I will be graduating with my PhD in Experimental Psychology with a focus in Human Factors by the end of Summer 2022 and am definitely looking for a job!
 Please feel free to reach me via my [UC email address](mayrry@mail.uc.edu)
