@@ -32,7 +32,12 @@ Work experience
   * Duties included: Assisting students creating and running class research projects in Ecologically inspired Perception and Action
   * Supervisor: Dr. Paula Silva
 
-* Fall 2019-Spring 2021 (and Summers): Instructor of Record: Research Methods in Human Factors
+* Fall 2018: Teaching Assistant: Human Performance
+  * University of Cincinnati
+  * Duties included: Grading assignments, assisting with class organization
+  * Supervisor: Dr. Tamara Lorenz
+
+* Spring 2019-Spring 2021 (and Summers): Instructor of Record: Research Methods in Human Factors
   * University of Cincinnati
   * Duties included: Lecturing on the topic of Human Factors practices and analyses, guiding students through group projects from idea generation to finished journal article style paper.
     * Transitioned from in-person to online for three semesters, revamping the group focused course into a course that worked asynchronously while ensuring students still retained interest.
