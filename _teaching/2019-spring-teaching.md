@@ -2,9 +2,9 @@
 title: "Instructor of Record"
 collection: teaching
 type: "Research Methods in Human Factors"
-permalink: /teaching/PSYC5060f19
+permalink: /teaching/PSYC5060sp19
 venue: "University of Cincinnati, Psychology"
-date: 2019-08-19
+date: 2019-01-14
 location: "Cincinnati, OH"
 ---
 

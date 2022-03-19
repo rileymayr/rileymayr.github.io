@@ -2,9 +2,9 @@
 title: "Instructor of Record"
 collection: teaching
 type: "Research Methods in Human Factors"
-permalink: /teaching/PSYC5060f19
+permalink: /teaching/PSYC5060sp20
 venue: "University of Cincinnati, Psychology"
-date: 2019-08-19
+date: 2020-01-13
 location: "Cincinnati, OH"
 ---
 
@@ -20,4 +20,5 @@ Responsibilities
     * Conducting the research study
     * Analyzing the data collected from the study
     * Writing a journal article style paper detailing the project
+* Transitioning the in-person course to an online-friendly version halfway through the semester
 * Delegating work to the Teaching Assistant
