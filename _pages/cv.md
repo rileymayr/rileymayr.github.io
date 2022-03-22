@@ -10,7 +10,10 @@ redirect_from:
 {% include base_path %}
 
 Please download my current resume at [this link](http://rileymayr.github.io/files/mayrResume2022.pdf)
-<!-- Please download a copy of my current CV at [this link](http://rileymayr.github.io/files/mayrCV2022.pdf) -->
+
+<!-- 
+Please download a copy of my current CV at [this link](http://rileymayr.github.io/files/mayrCV2022.pdf) 
+-->
 
 Education
 ======
