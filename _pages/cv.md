@@ -9,22 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
+Please download my current resume at [this link](http://rileymayr.github.io/files/mayrResume2022.pdf)
+<!-- Please download a copy of my current CV at [this link](http://rileymayr.github.io/files/mayrCV2022.pdf) -->
+
 Education
 ======
-* B.S. in Cognitive Science (Computer Science Focus) and Philosophy with Psychology and Neuroscience Minors, University of Evansville, 2016
-* M.A. in Experimental Psychology, University of Cincinnati, 2019
 * Ph.D in Human Factors Psychology and Movement Science, University of Cincinnati, 2022 (expected)
+* M.A. in Experimental Psychology, University of Cincinnati, 2019
+* B.S. in Cognitive Science (Computer Science Focus) and Philosophy with Psychology and Neuroscience Minors, University of Evansville, 2016
 
 Work experience
 ======
-* Fall 2015: Research Assistant
-  * University of Evansville
-  * Duties included: Transforming data into sound signals
-  * Supervisor: Dr. Anthony Beavers
-
-* Fall 2016-Fall 2017: Teaching Assistant: Research Methods in Human Factors
+* Fall 2021-Spring 2022: Digital Futures Graduate Research Fellow
   * University of Cincinnati
-  * Duties included: Assisting students creating and running class research projects in Human Factors
+  * Duties included: Consulting and creating virtual reality setups in Unity for various research projects, designing and picking hardware for the VR and Motion Capture lab 
+  * Supervisor: Dr. Michael Riley
+  
+* Spring 2019-Spring 2021 (and Summers): Instructor of Record: Research Methods in Human Factors
+  * University of Cincinnati
+  * Duties included: Lecturing on the topic of Human Factors practices and analyses, guiding students through group projects from idea generation to finished journal article style paper.
+    * Transitioned from in-person to online for three semesters, revamping the group focused course into a course that worked asynchronously while ensuring students still retained interest.  
+
+* Fall 2018: Teaching Assistant: Human Performance
+  * University of Cincinnati
+  * Duties included: Grading assignments, assisting with class organization
   * Supervisor: Dr. Tamara Lorenz
 
 * Spring 2018: Teaching Assistant: Research Methods in Perception & Action
@@ -32,21 +40,16 @@ Work experience
   * Duties included: Assisting students creating and running class research projects in Ecologically inspired Perception and Action
   * Supervisor: Dr. Paula Silva
 
-* Fall 2018: Teaching Assistant: Human Performance
+* Fall 2016-Fall 2017: Teaching Assistant: Research Methods in Human Factors
   * University of Cincinnati
-  * Duties included: Grading assignments, assisting with class organization
+  * Duties included: Assisting students creating and running class research projects in Human Factors
   * Supervisor: Dr. Tamara Lorenz
 
-* Spring 2019-Spring 2021 (and Summers): Instructor of Record: Research Methods in Human Factors
-  * University of Cincinnati
-  * Duties included: Lecturing on the topic of Human Factors practices and analyses, guiding students through group projects from idea generation to finished journal article style paper.
-    * Transitioned from in-person to online for three semesters, revamping the group focused course into a course that worked asynchronously while ensuring students still retained interest.
+* Fall 2015: Research Assistant
+  * University of Evansville
+  * Duties included: Transforming data into sound signals
+  * Supervisor: Dr. Anthony Beavers
 
-* Fall 2021-Spring 2022: Digital Futures Graduate Research Fellow
-  * University of Cincinnati
-  * Duties included: Consulting and creating virtual reality setups in Unity for various research projects, designing and picking hardware for the VR and Motion Capture lab 
-  * Supervisor: Dr. Michael Riley
-  
 Skills
 ======
 * Computer Software Skills
